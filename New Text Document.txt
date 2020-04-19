@@ -1,3 +1,0 @@
-#This is header
-##This is a subheader
-And this is text _italics_ **bold**, 'code'.
